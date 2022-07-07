@@ -1,12 +1,26 @@
-html {
-    box-sizing: border-box;
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
     font-family: "Roboto", sans-serif;
-    color: beige;
-    
 }
 
 header {
     background-color: black;
-    
+    padding: 1em 13em;
 }
 
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 1.5em;
+}
