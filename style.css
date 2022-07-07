@@ -1,25 +1,11 @@
-* {
-    margin: 0;
-    padding: 0;
-    
-}
-
-body {
+html {
+    box-sizing: border-box;
     font-family: "Roboto", sans-serif;
+    color:beige;
     background-color: black;
-    color: beige;
-    text-align: center;
-    }
-
-.container {
-    display: flex;
-    flex-direction: column;
 }
 
-.navbar {
-    display: flex;
-    color: beige;
-    background-color: black;
-    padding: 20px 0px 20px 100px;
-    align-items: center;
+img {
+    position: absolute;
+    
 }
