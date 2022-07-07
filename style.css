@@ -1,16 +1,7 @@
 html {
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
-    color: black;
-    
+    color: beige;
+    background-color: black;
 }
 
-img {
-    position: absolute;
-    
-}
-
-.nav {
-    display: flex-end;
-    justify-content: center;
-}
