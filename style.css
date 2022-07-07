@@ -1,7 +1,7 @@
 html {
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
-    color:beige;
+    
     
 }
 
@@ -10,13 +10,9 @@ img {
     
 }
 
-.navbar {
-    display: flex;
-}
-
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    
+
 }
