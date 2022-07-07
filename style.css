@@ -8,4 +8,13 @@ body {
     font-family: "Roboto", sans-serif;
     background-color: black;
     color: beige;
+    text-align: center;
+
+}
+
+.header-logo img {
+    margin-right: auto;
+    width: 200;
+    height: 121;
+}
 }
