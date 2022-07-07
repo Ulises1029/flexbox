@@ -2,6 +2,11 @@ html {
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
     color: beige;
+    
+}
+
+header {
     background-color: black;
+    
 }
 
