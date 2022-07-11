@@ -16,16 +16,34 @@ header {
 
 .nav {
     display: flex;
-    justify-content: space-between;
-    align-items: baseline;
+    flex-direction: column;
 }
 
-.nav ul {
-    list-style-type: none;
+.left {
     display: flex;
-    gap: 1.5em;
     color: beige;
+    background-color: black;
+    padding: 20px 0px 20px 100px;
+    align-items: center;
 }
+.left img {
+    width: 84px;
+    height: 84px;
+    margin-right: auto;
+}
+.header-link {
+    display: flex;
+    margin-left: auto;
+    padding: 0px 100px 0px 0px;
+}
+.header-link a {
+    text-decoration: none;
+    color: beige;
+    font-size: 18px;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
 .box-movies {
     display: flex;
     align-items: center;
