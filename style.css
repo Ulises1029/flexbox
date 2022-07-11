@@ -61,6 +61,7 @@ h1 {
     font-weight: bold;
     margin: 0;
     font-family: 'Roboto', sans-serif;
+    color: beige;
 }
 .wrapper {
    position: fixed;
@@ -85,4 +86,15 @@ a {
 a:hover {
     letter-spacing: 15px;
 }
+ .span {
+    color: beige;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+ }
+
+ p {
+    color: beige;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+ }
 
