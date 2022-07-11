@@ -50,15 +50,20 @@ h1 {
     font-family: 'Roboto', sans-serif;
 }
 .button {
+    transition-duration: 0.4s;
     display: block;
     text-align: center;
     width: 200px;
-    border:firebrick;
-    background-color: grey;
+    border: 2px solid firebrick;
+    background-color: white;
     padding: 10px;
     border-radius: 8px;
     color: beige;
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
     font-weight: bold;
+}
+.button:hover {
+    background-color: white;
+    color: black;
 }
