@@ -49,21 +49,27 @@ h1 {
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
-.button {
-    transition-duration: 0.4s;
+.wrapper {
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+a {
     display: block;
-    text-align: center;
-    width: 200px;
-    border: 2px solid firebrick;
-    background-color: white;
-    padding: 10px;
-    border-radius: 8px;
-    color: beige;
-    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-family: sans-serif;
     text-decoration: none;
-    font-weight: bold;
+    color: beige;
+    border-top: 2px solid beige;
+    border-bottom: 2px solid beige;
+    padding: 10px;
+    letter-spacing: 2px;
+    transition: all .25s;
 }
-.button:hover {
-    background-color: white;
-    color: black;
+
+a:hover {
+    letter-spacing: 15px;
 }
+
