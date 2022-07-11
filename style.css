@@ -53,8 +53,8 @@ h1 {
     display: block;
     text-align: center;
     width: 200px;
-    border:firebrick
-    background: grey;
+    border:firebrick;
+    background-color: grey;
     padding: 10px;
     border-radius: 8px;
     color: beige;
