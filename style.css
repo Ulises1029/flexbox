@@ -26,3 +26,17 @@ header {
     gap: 1.5em;
     color: beige;
 }
+
+.button {
+    display: block;
+    text-align: center;
+    width: 110px;
+    border: none;
+    background: grey;
+    padding: 10px;
+    border-radius: 8px;
+    color: beige;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
