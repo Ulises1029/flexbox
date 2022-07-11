@@ -52,8 +52,8 @@ h1 {
 .button {
     display: block;
     text-align: center;
-    width: 110px;
-    border: none;
+    width: 200px;
+    border:firebrick
     background: grey;
     padding: 10px;
     border-radius: 8px;
