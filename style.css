@@ -26,7 +26,29 @@ header {
     gap: 1.5em;
     color: beige;
 }
-
+.box-movies {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 90px;
+}
+.movies-2022 {
+    flex-basis: 400px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-right: 50px;
+}
+.movies-2022 p {
+    font-family: 'Roboto', sans-serif;
+    opacity: 0.7;
+}
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
 .button {
     display: block;
     text-align: center;
