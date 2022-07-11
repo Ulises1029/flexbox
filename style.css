@@ -9,19 +9,19 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
-.nav {
+.navbar {
     display: flex;
     flex-direction: column;
 }
 
-.left {
+.bx-navbar {
     display: flex;
     color: beige;
     background-color: black;
     padding: 20px 0px 20px 100px;
     align-items: center;
 }
-.left img {
+.header-logo img {
     width: 84px;
     height: 84px;
     margin-right: auto;
