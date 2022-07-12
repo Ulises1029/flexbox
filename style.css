@@ -1,13 +1,10 @@
-* {
-    margin: 0;
-    padding: 0;
-    background-color: black;
-    color: beige;
-
-}
-
 body {
     font-family: "Roboto", sans-serif;
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+
 }
 
 .navbar {
@@ -45,6 +42,8 @@ body {
     align-items: center;
     justify-content: center;
     padding: 90px;
+    color: beige;
+    background-color: black;
 }
 .movies-2022 {
     flex-basis: 400px;
@@ -82,20 +81,15 @@ a {
     padding: 10px;
     letter-spacing: 2px;
     transition: all .25s;
+    text-align: center;
 }
 
 a:hover {
     letter-spacing: 15px;
 }
- .span {
-    color: beige;
+.movies-2022 span {
     font-family: 'Roboto', sans-serif;
-    margin: 0;
+    opacity: 0.7;
  }
 
- p {
-    color: beige;
-    font-family: 'Roboto', sans-serif;
-    margin: 0;
- }
 
