@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    background-color: rgb(92, 76, 76);
+    background-color: rgb(8, 7, 7);
     padding: 0;
     margin: 0;
     text-align: center;
@@ -15,7 +15,7 @@ body {
 .bx-navbar {
     display: flex;
     color: beige;
-    background-color: rgb(92, 76, 76);
+    background-color: rgb(8, 7, 7);
     padding: 20px 0px 20px 100px;
     align-items: center;
 }
@@ -43,7 +43,7 @@ body {
     justify-content: center;
     padding: 90px;
     color: beige;
-    background-color: rgb(92, 76, 76);
+    background-color: rgb(8, 7, 7);
 }
 .movies-2022 {
     flex-basis: 400px;
@@ -92,11 +92,7 @@ a:hover {
     font-family: 'Roboto', sans-serif;
     opacity: 0.7;
  }
-
- img {
-    opacity: 0.5;
- }
  img:hover {
-    opacity: 1.0;
+    opacity: 0.5;
  }
 
