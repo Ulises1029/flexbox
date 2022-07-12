@@ -70,10 +70,10 @@ h1 {
    transform: translate(-50%, -50%);
 }
 
-.bx-movies a {
+a {
     display: block;
     font-size: 24px;
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-decoration: none;
     color: beige;
     border-top: 2px solid beige;
