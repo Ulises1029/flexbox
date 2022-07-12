@@ -98,13 +98,15 @@ a:hover {
 
 .bx-content {
     align-items: center;
+    
 }
 
 .content-info {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    color: beige;
+    color: black;
+    background-color: whitesmoke;
 }
 
 .content-info img {
