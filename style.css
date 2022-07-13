@@ -102,6 +102,10 @@ a:hover {
     color: black;
     
 }
+.bx-content h2 {
+    font-size: xx-large;
+    font-family: 'Roboto', sans-serif;
+}
 
 .content-info {
     display: flex;
@@ -142,7 +146,7 @@ a:hover {
 }
 
 .sign-up {
-    background-color: #3882f6;
+    background-color: gray;
     margin: 50px 200px;
     padding: 10px 80px;
     display: flex;
@@ -172,7 +176,7 @@ h3 {
     font-family: 'Roboto', sans-serif;
     border-color: #fff;
     border-radius: 8px;
-    background-color: #3882f6;
+    background-color: black;
     padding: 5px 25px;
     font-size: 15px;
 }
